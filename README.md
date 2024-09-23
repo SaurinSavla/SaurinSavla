@@ -1,5 +1,5 @@
 ### Hi, This is Saurin ;) 👋
-####  I'm currently learning about Graph Neural Networks!
+####  I'm currently learning about LLMs!
 ![](https://komarev.com/ghpvc/?username=SaurinSavla)
 
 <span>
